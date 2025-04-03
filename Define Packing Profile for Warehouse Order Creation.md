@@ -13,11 +13,12 @@ The following modes are available for determining the pick-handling units:
 - Simple algorithm
 - Complex algorithm
 - BAdI
-- Prerequisites
+
+### Prerequisites
 
 If you enter Simple algorithm or Complex algorithm as the mode, you must also define the relevant packaging specifications in the system. There you specify the desired packaging material and can, if required, manually overwrite the capacity data. In addition, when determining the packing specification, you must indicate the sequence number of the conditions according to the size of the packaging material (from small to large). For the simple algorithm, you can only define one packaging specification with one packaging material per packing profile.
 
-In the area menu, choose Extended Warehouse Management -> Master Data > Packaging Specifications -> Maintain Packaging Specifications.
+In the area menu, choose ```Extended Warehouse Management -> Master Data > Packaging Specifications -> Maintain Packaging Specifications.```
 
 ### Activities
 
