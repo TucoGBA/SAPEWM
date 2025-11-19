@@ -3,7 +3,10 @@
 
 With this Customizing activity, you get an overview of the most relevant steps to set up the connection from Archive Link to the ILM Store.
 
-The Archive Link connection with ILM Store can be used in three different scenarios: as local implementation, as a remote scenario, or as an http server implementation.
+The Archive Link connection with ILM Store can be used in three different scenarios: 
+- as local implementation
+- as a remote scenario
+- or as an http server implementation.
 
 The following configuration steps need to be done before you can use the Archive Link connection:
 
