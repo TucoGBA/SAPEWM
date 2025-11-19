@@ -32,4 +32,4 @@ The Default value points to the local database of the application server.
 
 For more detailed configuration information, please see the Installation and Configuration Guide for ILM Store on SAP Service Marketplace at http://service.sap.com/ilm -> Media Library.
 
-[Quick Configuration Guide for the ILM Store](./)
+[Quick Configuration Guide for the ILM Store](./21f9ec5ad170450b978d6863d2a3cbca.pdf)
