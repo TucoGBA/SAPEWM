@@ -1,5 +1,5 @@
-Set Up Archive Link Connection
-Use
+# Set Up Archive Link Connection
+## Use
 
 With this Customizing activity, you get an overview of the most relevant steps to set up the connection from Archive Link to the ILM Store.
 
