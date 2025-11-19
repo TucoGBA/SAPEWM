@@ -31,3 +31,5 @@ The Default value points to the local database of the application server.
 *To test the Archive Link connection, upload any document to the ILM Store for verification.*
 
 For more detailed configuration information, please see the Installation and Configuration Guide for ILM Store on SAP Service Marketplace at http://service.sap.com/ilm -> Media Library.
+
+[Quick Configuration Guide for the ILM Store](./)
